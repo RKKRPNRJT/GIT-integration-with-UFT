@@ -1,0 +1,80 @@
+<?xml version="1.0"?>
+<Results version="1.0">
+<ReportNode type="testrun">
+<ReportNode type="Iteration">
+<ReportNode type="Action">
+<ReportNode type="Step">
+<Data>
+    <Name>SystemUtil.Run "iexplore.exe",1</Name>
+    <StartTime>2018-05-24 08:40:57</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <IconKey>a5dcd6cc8f4f451f91837a67c34de446</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<Data>
+    <Name>Action1</Name>
+    <Description />
+    <StartTime>2018-05-24 08:40:52</StartTime>
+    <Duration>5</Duration>
+    <Result>Done</Result>
+    <InputParameters />
+    <Extension>
+      <IconKey>ae5e8707adff4b03984b0c5528823141</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<Data>
+    <Name>Action0</Name>
+    <Description />
+    <StartTime>2018-05-24 08:40:52</StartTime>
+    <Duration>5</Duration>
+    <Result>Done</Result>
+    <Extension>
+      <IconKey>1a2eae41423f48e9816007fa9a814756</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <Index>1</Index>
+    <TestedApplications />
+  </Data>
+</ReportNode>
+<Data>
+    <Name>creation_Objects_1</Name>
+    <ToolName>HPE Unified Functional Testing</ToolName>
+    <ToolVersion>14.02</ToolVersion>
+    <Description />
+    <StartTime>2018-05-24 08:39:28</StartTime>
+    <Duration>89</Duration>
+    <Result>Done</Result>
+    <InputParameters />
+    <Extension>
+      <IconKey>0095560cf8bd4b2c953b26b301a0c362</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <Environment>
+      <Timezone>+05:30:00</Timezone>
+      <Locale>English (India)</Locale>
+      <User>TECHMAHINDRA\JR37079</User>
+      <CpuInfo>Intel(R) Core(TM) i5-4200U CPU @ 1.60GHz</CpuInfo>
+      <NumberOfCores>4</NumberOfCores>
+      <TotalMemory>8073</TotalMemory>
+      <HostName>TechMahindra.com\INHYIZLP07304</HostName>
+      <OSInfo>Windows 7 Service Pack 1 (x64)</OSInfo>
+    </Environment>
+    <TestedApplications />
+    <Links>
+      <Link type="DataTable" reference="Default.xls" displayname="Default Data Table" />
+    </Links>
+  </Data>
+</ReportNode>
+<GeneralInfo>
+    <ResultName>creation_Objects_1</ResultName>
+    <RunStartTime>2018-05-24 08:39:28</RunStartTime>
+    <Timezone>+05:30:00</Timezone>
+    <OrchestrationToolName>HPE Unified Functional Testing</OrchestrationToolName>
+    <OrchestrationToolVersion>14.02</OrchestrationToolVersion>
+  </GeneralInfo>
+</Results>
